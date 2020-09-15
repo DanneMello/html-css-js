@@ -185,8 +185,7 @@ table#tabelaspec td.teste {
 table#tabelaspec caption {
     color: #888888;
     font-size: 15pt;
-    font-weight: bolder;
-    
+    font-weight: bolder;    
 }
 
 table#tabelaspec caption span {
